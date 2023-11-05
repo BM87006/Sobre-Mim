@@ -28,7 +28,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+            
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="reactnative" width="40" height="40" />
+          
           
   <!-- Add more web development tools and technologies as needed -->
 </p>
@@ -45,8 +47,9 @@
 <h3 align="left">Other Tools:</h3>
 <p align="left">
   <!-- List of other tools and technologies -->
-  <img src="https://www.gnu.org/software/bash/" alt="bash" width="40" height="40"/>
-  <img src="https://git-scm.com/" alt="git" width="40" height="40"/>
-  <img src="https://www.linux.org/" alt="linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <!-- Add more tools and technologies as needed -->
 </p>
