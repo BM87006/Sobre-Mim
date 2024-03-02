@@ -12,15 +12,16 @@
   <!-- Add your social media or contact links here -->
 </p>
 
-<h3 align="left">Languages:</h3>
+  <!-- Add more languages as needed -->
+  <h3 align="left">Languages:</h3>
 <p align="left">
   <!-- List of programming languages -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" alt= lua width="40" height="40 />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-<p>      
-  <!-- Add more languages as needed -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-plain.svg" alt="lua" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+</p>
+
 
 <h3 align="left">Web Development:</h3>
 <p align="left">
