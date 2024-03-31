@@ -54,4 +54,4 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <!-- Add more tools and technologies as needed -->
 </p>
-<h3 align="left>Knowledge is the key that unlocks the chains of ignorance. Empower yourself with information, and set your mind free</h3>
+<h3 align="left">"Knowledge is the key that unlocks the chains of ignorance. Empower yourself with information, and set your mind free"</h3>
